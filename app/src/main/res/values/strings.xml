@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Chat Sockets</string>
+    <string name="title">(Android WebSockets Chat App)</string>
+    <string name="author_name">Por Hugo Luna</string>
+    <string name="author_url">www.lunainc.org</string>
+    <string name="enter_name">Ingresa tu nombre</string>
+    <string name="btn_join">Unirse</string>
+    <string name="btn_send">Enviar</string>
+</resources>
